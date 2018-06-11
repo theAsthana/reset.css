@@ -1,9 +1,9 @@
 #-----------------------------------------------------------
 
-# reset.css
+## reset.css
 
-# authour : Himanshu Asthana
+#### authour : Himanshu Asthana
 
-# github : https://github.com/theAsthana
+#### github : https://github.com/theAsthana
 
 #----------------------------------------------------------------
