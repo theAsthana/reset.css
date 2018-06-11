@@ -12,9 +12,16 @@
 
 ## File List :  
          * reset.css
-         * reset.scss
+         * _reset.scss
          * README.md
          * Licence.md
+
+## About : 
+
+       A CSS Reset (or “Reset CSS”) is a short, set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
+      In case you didn't know, every browser has its own default 'user agent' stylesheet, that it uses to make unstyled websites appear more legible.
+
+      Using a CSS Reset, CSS authors can force every browser to have all its styles reset to null, thus avoiding cross-browser differences as much as possible.
 
 ## How To Use :
 
